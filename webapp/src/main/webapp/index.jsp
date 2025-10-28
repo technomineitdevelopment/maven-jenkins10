@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for training - DevOps Techlab - Github Webhook Trigger - 28-10-2025</h1>
+    <h1>New user Register for training - DevOps Techlab - Github Webhook Trigger - 28-10-2025 - Tuesday</h1>
     <p>Deploy using Docker with Bheesham</p>
     <hr>
      

@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for training - DevOps Techlab - Github Webhook Trigger - 31-10-2025 - Friday</h1>
+    <h1>New user Register for training - DevOps Techlab - Github Webhook Trigger - 01-11-2025 - Saturday</h1>
     <p>Deploy on Tomcat using Deploy Job</p>
     <hr>
      

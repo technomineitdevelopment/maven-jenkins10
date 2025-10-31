@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for training - DevOps Techlab - Github Webhook Trigger - 28-10-2025 - Tuesday</h1>
-    <p>Deploy using Docker with Bheesham</p>
+    <h1>New user Register for training - DevOps Techlab - Github Webhook Trigger - 31-10-2025 - Friday</h1>
+    <p>Deploy on Tomcat using Deploy Job</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>

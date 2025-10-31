@@ -1,14 +1,14 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for training - DevOps Techlab - Github Webhook Trigger - 01-11-2025, Saturday @23:15pm</h1>
-    <p>Deploy on Tomcat using Deploy Job automatic</p>
+    <h1>New user Register for training - DevOps Techlab - Github Webhook Trigger - 01-11-2025, Saturday @23:26pm</h1>
+    <p>Deploy on Tomcat using Deploy Job automatically</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter mobile</b></labe2
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 

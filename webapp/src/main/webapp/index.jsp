@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for training - DevOps Techlab - Github Webhook Trigger - 01-11-2025, Saturday @8:24am</h1>
-    <p>Deploy on Tomcat using Deploy Job automatically.</p>
+    <p>Deploy on Tomcat using Deploy Job automatically...</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
